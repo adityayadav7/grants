@@ -1,0 +1,6 @@
+grants-api-admin/target/
+grants-api-applicat/target/
+grants-web-admin/node_module/
+grants-web-applicat/node_module/
+grants-web-admin/build/
+grants-web-applicat/build/
